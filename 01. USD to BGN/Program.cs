@@ -6,7 +6,7 @@ namespace _01._USD_to_BGN
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
