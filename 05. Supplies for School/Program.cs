@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _01._Hello_SoftUni
+namespace _05._Supplies_for_School
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello SoftUni");
+            Console.WriteLine("Hello World!");
         }
     }
 }

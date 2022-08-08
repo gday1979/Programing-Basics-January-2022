@@ -6,7 +6,8 @@ namespace _05._Greeting_by_Name
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}!");
         }
     }
 }

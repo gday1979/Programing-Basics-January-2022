@@ -6,7 +6,10 @@ namespace _04._Inches_to_Centimeters
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double a = double.Parse(Console.ReadLine());
+            double b = 2.54;
+            double result = a * b;
+            Console.WriteLine(result);
         }
     }
 }
