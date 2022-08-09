@@ -6,7 +6,9 @@ namespace _02._Radians_to_Degrees
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double radius = double.Parse(Console.ReadLine());
+            double degrees = radius * 180 / Math.PI;
+            Console.WriteLine(degrees);
         }
     }
 }
