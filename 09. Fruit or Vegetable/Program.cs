@@ -6,7 +6,31 @@ namespace _09._Fruit_or_Vegetable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string type = Console.ReadLine();
+            
+            switch (type)
+            {
+               
+                case "banana":
+                case "apple":
+                case "kiwi":
+                case "cherry":
+                case "lemon":
+                case "grapes":
+                
+                    Console.WriteLine("fruit");
+                    break;
+                case "tomato":
+                case "cucumber":
+                case "pepper":
+                case "carrot":
+                    Console.WriteLine("vegetable");
+                    break ;
+                default:
+                    Console.WriteLine("unknown");
+                    break;
+            }
         }
     }
 }
+
