@@ -6,7 +6,36 @@ namespace _02._Half_Sum_Element
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n = int.Parse(Console.ReadLine());
+
+            int currentMax = int.Parse(Console.ReadLine());
+            int totalSum = 0;
+
+            for (int i = 0; i < n - 1; i++)
+            {
+                int num = int.Parse(Console.ReadLine());
+
+                if (num > currentMax)
+                {
+                    totalSum = totalSum + currentMax;
+                    currentMax = num;
+                }
+                else
+                {
+                    totalSum = totalSum + num;
+                }
+            }
+            if (currentMax == totalSum)
+            {
+                Console.WriteLine("Yes");
+                Console.WriteLine("Sum = {0}", totalSum);
+            }
+            else
+            {
+                Console.WriteLine("No");
+                Console.WriteLine("Diff = {0}", Math.Abs(totalSum - currentMax));
+            }
+
         }
     }
 }
