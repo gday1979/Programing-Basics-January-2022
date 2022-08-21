@@ -6,7 +6,7 @@ namespace _02._Password
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
