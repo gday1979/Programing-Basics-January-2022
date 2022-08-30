@@ -6,7 +6,18 @@ namespace _06._Max_Number
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input=Console.ReadLine();
+            int bigestNumber = int.MinValue;
+            while (input !="Stop")
+            {
+                int number=int.Parse(input);
+                if (number>bigestNumber)
+                {
+                   bigestNumber= number;
+                }
+                input = Console.ReadLine();
+            }
+            Console.WriteLine(bigestNumber);
         }
     }
 }
