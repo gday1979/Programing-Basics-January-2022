@@ -6,7 +6,7 @@ namespace _04._Walking
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
