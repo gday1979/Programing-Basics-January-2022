@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _03._Sum_Prime_Non_Prime
+namespace _10._Weather_Forecast___Part_2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }

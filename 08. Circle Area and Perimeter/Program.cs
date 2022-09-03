@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _03._Sum_Prime_Non_Prime
+namespace _08._Circle_Area_and_Perimeter
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
+           
         }
     }
 }
