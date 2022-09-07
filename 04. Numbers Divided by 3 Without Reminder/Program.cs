@@ -6,7 +6,13 @@ namespace _04._Numbers_Divided_by_3_Without_Reminder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i%3==0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }
