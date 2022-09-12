@@ -10,9 +10,12 @@ namespace _01._Pool_Day
             double priceEnter=double.Parse(Console.ReadLine());
             double priceSunLoger=double.Parse(Console.ReadLine());  
             double priceUmbrela=double.Parse(Console.ReadLine());
-            double sunLoger = people * 0.75;
-            double umbrella = people * 0.50;
-            double sum=(people*priceEnter)+(priceSunLoger*sunLoger)+(priceUmbrela*umbrella);
+            double sumPrice = people * priceEnter;
+            double logger = Math.Ceiling(people * 0.75);
+            double sunLoger = logger * priceSunLoger;
+            double needUmberla = Math.Ceiling(people * 0.50);
+            double umbrella = needUmberla*priceUmbrela;
+            double sum=sumPrice +sunLoger+umbrella;
             Console.WriteLine($"{sum:f2} lv.");
         }
     }
