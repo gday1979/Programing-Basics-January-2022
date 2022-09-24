@@ -6,7 +6,7 @@ namespace _05._Oscars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
