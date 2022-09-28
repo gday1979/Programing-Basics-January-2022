@@ -6,7 +6,7 @@ namespace _05._Tennis_Ranklist
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
