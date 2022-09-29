@@ -30,8 +30,8 @@ namespace _03._Gymnastics
                             procentNeed = allEvaluation / maxEvaluation * 100;
                             break ;
                         case "rope":
-                            difficulty = 9.300;
-                            performance = 9.800;
+                            difficulty = 9.600;
+                            performance = 9.000;
                             allEvaluation = difficulty + performance;
                             procentNeed = allEvaluation / maxEvaluation * 100;
                             break;
@@ -64,20 +64,20 @@ namespace _03._Gymnastics
                     switch (type)
                     {
                         case "ribbon":
-                            difficulty = 9.600;
-                            performance = 9.400;
+                            difficulty = 9.200;
+                            performance = 9.500;
                             allEvaluation = difficulty + performance;
                             procentNeed = allEvaluation / maxEvaluation * 100;
                             break;
                         case "hoop":
-                            difficulty = 9.550;
-                            performance = 9.750;
+                            difficulty = 9.450;
+                            performance = 9.350;
                             allEvaluation = difficulty + performance;
                             procentNeed = allEvaluation / maxEvaluation * 100;
                             break;
                         case "rope":
-                            difficulty = 9.500;
-                            performance = 9.400;
+                            difficulty = 9.700;
+                            performance = 9.150;
                             allEvaluation = difficulty + performance;
                             procentNeed = allEvaluation / maxEvaluation * 100;
                             break;
@@ -88,8 +88,8 @@ namespace _03._Gymnastics
                     break;
             }
             double diference=maxEvaluation-allEvaluation;
-            Console.WriteLine($"The team {country} get {allEvaluation} on {type}");
-            Console.WriteLine($"{diference / maxEvaluation * 100}%");
+            Console.WriteLine($"The team of {country} get {allEvaluation:f3} on {type}.");
+            Console.WriteLine($"{diference/maxEvaluation*100:f2}%");
         }
     }
 }
