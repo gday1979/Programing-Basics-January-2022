@@ -6,7 +6,7 @@ namespace _05._Care_of_Puppy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double foodSum=double.Parse
         }
     }
 }
