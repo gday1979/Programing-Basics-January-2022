@@ -561,77 +561,77 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming Basics Online E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Agency Profit", "01. Agency Profit", "{3F3BD761-B02E-43B0-94A2-73CDD68BDE0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Agency Profit", "01. Agency Profit\01. Agency Profit.csproj", "{49782ECB-B485-48D3-8D3E-E62417A7D24E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Agency Profit", "01. Agency Profit\01. Agency Profit.csproj", "{49782ECB-B485-48D3-8D3E-E62417A7D24E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Add Bags", "02. Add Bags", "{99AB8084-EEC2-4DDC-8524-9443CF04832B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Add Bags", "02. Add Bags\02. Add Bags.csproj", "{DC14999B-25F3-4638-8D4C-114D44FCC3D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Add Bags", "02. Add Bags\02. Add Bags.csproj", "{DC14999B-25F3-4638-8D4C-114D44FCC3D6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Aluminum Joinery", "03. Aluminum Joinery", "{A7AB9A4D-5732-440B-84FF-5B9F55D209FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Aluminum Joinery", "03. Aluminum Joinery\03. Aluminum Joinery.csproj", "{D0D3E003-CB14-4966-B535-873ED36D8B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Aluminum Joinery", "03. Aluminum Joinery\03. Aluminum Joinery.csproj", "{D0D3E003-CB14-4966-B535-873ED36D8B35}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Balls", "04. Balls", "{58F78FA1-55D8-4892-9E77-0D8BC179E9AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Balls", "04. Balls\04. Balls.csproj", "{227C1446-40ED-41E4-9C83-85C13CC9B7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Balls", "04. Balls\04. Balls.csproj", "{227C1446-40ED-41E4-9C83-85C13CC9B7AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Best Player", "05. Best Player", "{96B9376F-2A1A-4C9C-B5F7-9ED286FF0547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Best Player", "05. Best Player\05. Best Player.csproj", "{787685BC-9129-4933-912B-FCA1697B9896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Best Player", "05. Best Player\05. Best Player.csproj", "{787685BC-9129-4933-912B-FCA1697B9896}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Barcode Generator", "06. Barcode Generator", "{3C9092D3-7078-4756-AE6E-03172F466FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Barcode Generator", "06. Barcode Generator\06. Barcode Generator.csproj", "{FDB96CB5-9DFE-4734-9743-1567536F1ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Barcode Generator", "06. Barcode Generator\06. Barcode Generator.csproj", "{FDB96CB5-9DFE-4734-9743-1567536F1ED3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming Basics Online Exam - 20 and 21 April 2019", "Programming Basics Online Exam - 20 and 21 April 2019", "{EF56E46B-EE5C-415A-AFB9-2DC23DFA342C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Easter Lunch", "01. Easter Lunch", "{2A8AFA4D-E9A0-4A17-B65F-0934568CBB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Easter Lunch", "01. Easter Lunch\01. Easter Lunch.csproj", "{EC2B6594-7FEA-44C5-AD59-5D45B64BB76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Easter Lunch", "01. Easter Lunch\01. Easter Lunch.csproj", "{EC2B6594-7FEA-44C5-AD59-5D45B64BB76A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Easter Bakery", "01. Easter Bakery", "{9C99A617-8646-486F-A2C7-20A89BF1ED8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Easter Bakery", "01. Easter Bakery\01. Easter Bakery.csproj", "{196BC5FE-8C63-4D0C-8BA6-66F6B780A11D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Easter Bakery", "01. Easter Bakery\01. Easter Bakery.csproj", "{196BC5FE-8C63-4D0C-8BA6-66F6B780A11D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Easter Party", "02. Easter Party", "{9F4A8D76-18E1-48EB-B26F-9E21542CA42D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Easter Party", "02. Easter Party\02. Easter Party.csproj", "{A4B54B61-2B9B-48EF-B3F9-6A15B6D47702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Easter Party", "02. Easter Party\02. Easter Party.csproj", "{A4B54B61-2B9B-48EF-B3F9-6A15B6D47702}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Easter Guests", "02. Easter Guests", "{F7BA94A7-086C-427D-B4AC-B7B5F7ABA8E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Easter Guests", "02. Easter Guests\02. Easter Guests.csproj", "{C4F5F02C-470C-49A1-8C83-513E1988CA3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Easter Guests", "02. Easter Guests\02. Easter Guests.csproj", "{C4F5F02C-470C-49A1-8C83-513E1988CA3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Easter Trip", "03. Easter Trip", "{DC0F5C41-52E0-4F6D-90A3-505EAB8B755F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Easter Trip", "03. Easter Trip\03. Easter Trip.csproj", "{7E90ABF6-AC9A-4A18-B029-039A42F054B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Easter Trip", "03. Easter Trip\03. Easter Trip.csproj", "{7E90ABF6-AC9A-4A18-B029-039A42F054B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Painting Eggs", "03. Painting Eggs", "{A9C6CA7D-25E4-4033-B282-A6F28C5CD82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Painting Eggs", "03. Painting Eggs\03. Painting Eggs.csproj", "{83415D22-465F-4861-BF4D-63D38B274F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Painting Eggs", "03. Painting Eggs\03. Painting Eggs.csproj", "{83415D22-465F-4861-BF4D-63D38B274F76}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Easter Eggs Battle", "04. Easter Eggs Battle", "{C2C4EC7D-C5C0-4487-925C-7C5257CEA288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Easter Eggs Battle", "04. Easter Eggs Battle\04. Easter Eggs Battle.csproj", "{FD8E412D-CEB7-485D-B87B-EB9D09B7B783}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Easter Eggs Battle", "04. Easter Eggs Battle\04. Easter Eggs Battle.csproj", "{FD8E412D-CEB7-485D-B87B-EB9D09B7B783}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Easter Shop", "04. Easter Shop", "{4013BFE2-8E9C-4612-933A-2402C981A9EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Easter Shop", "04. Easter Shop\04. Easter Shop.csproj", "{C9B5F322-ABF5-48C0-9DF6-99A0BB1D8247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Easter Shop", "04. Easter Shop\04. Easter Shop.csproj", "{C9B5F322-ABF5-48C0-9DF6-99A0BB1D8247}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Easter Eggs", "05. Easter Eggs", "{E9CEB6E8-B122-4541-93E0-B94D25D8CADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Easter Eggs", "05. Easter Eggs\05. Easter Eggs.csproj", "{8957A28A-D59F-40CF-86DE-DED22808DEE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Easter Eggs", "05. Easter Eggs\05. Easter Eggs.csproj", "{8957A28A-D59F-40CF-86DE-DED22808DEE5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Easter Bake", "05. Easter Bake", "{8D0C11F5-336A-48A6-9F97-30C83D433079}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Easter Bake", "05. Easter Bake\05. Easter Bake.csproj", "{48F06603-627C-42A6-877C-6B20B287607F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Easter Bake", "05. Easter Bake\05. Easter Bake.csproj", "{48F06603-627C-42A6-877C-6B20B287607F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Easter Competition", "06. Easter Competition", "{B4103ABA-CF68-42D0-BDA8-8E33C67001A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Easter Competition", "06. Easter Competition\06. Easter Competition.csproj", "{767599D8-5979-454E-9057-3F4DBCDF9D84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Easter Competition", "06. Easter Competition\06. Easter Competition.csproj", "{767599D8-5979-454E-9057-3F4DBCDF9D84}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Easter Decoration", "06. Easter Decoration", "{8C4C019F-C0A0-417B-9433-B884017325BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Easter Decoration", "06. Easter Decoration\06. Easter Decoration.csproj", "{A86E0C3D-FB01-4A2F-B611-93209C8CF5BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Easter Decoration", "06. Easter Decoration\06. Easter Decoration.csproj", "{A86E0C3D-FB01-4A2F-B611-93209C8CF5BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1610,7 +1610,6 @@ Global
 		{469F164D-83AA-4AF5-A4B3-F429CC104417} = {DD6D8C6F-2256-4E43-83D7-A18FD033A02C}
 		{2D1EAFCB-B061-4D23-8703-47E5EA1D06F4} = {DD6D8C6F-2256-4E43-83D7-A18FD033A02C}
 		{42570FEF-64EC-47C3-9E93-B994A18AD8FF} = {DD6D8C6F-2256-4E43-83D7-A18FD033A02C}
-		{6F218E2A-4C89-4A24-A1FF-BD648DB95BEF} = {B024A72F-798B-4E26-A6DC-C20D57BC187B}
 		{AF7D42DE-0506-482E-9FEE-78C0ED186F47} = {6F218E2A-4C89-4A24-A1FF-BD648DB95BEF}
 		{762BD9FF-1C4A-4C0F-BBB9-B85D6FDBEBE1} = {6F218E2A-4C89-4A24-A1FF-BD648DB95BEF}
 		{EF39AA5D-3191-4B02-BB27-2BCFB6AD9A5E} = {6F218E2A-4C89-4A24-A1FF-BD648DB95BEF}
